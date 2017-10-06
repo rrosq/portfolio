@@ -13,9 +13,6 @@
   ],
   "license": "MIT",
   "author": "rrosq",
-  "contributors": [
-    "David Miller (http://davidmiller.io/)"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/rrosq/portfolio.git"
