@@ -1,8 +1,8 @@
 {
-  "title": "Grayscale",
-  "name": "startbootstrap-grayscale",
-  "version": "4.0.0-beta",
-  "description": "A grayscale one page HTML theme for Bootstrap.",
+  "title": "Renee Rosquites",
+  "name": "portfolio",
+  "version": "1,0.0",
+  "description": "", 
   "keywords": [
     "css",
     "sass",
@@ -11,19 +11,14 @@
     "theme",
     "template"
   ],
-  "homepage": "https://startbootstrap.com/template-overviews/grayscale",
-  "bugs": {
-    "url": "https://github.com/BlackrockDigital/startbootstrap-grayscale/issues",
-    "email": "feedback@startbootstrap.com"
-  },
   "license": "MIT",
-  "author": "Start Bootstrap",
+  "author": "rrosq",
   "contributors": [
     "David Miller (http://davidmiller.io/)"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-grayscale.git"
+    "url": "https://github.com/rrosq/portfolio.git"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta",
